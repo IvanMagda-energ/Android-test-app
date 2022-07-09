@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stady application</string>
+    <string name="text_view_placeholder">In this window you will see your entered text</string>
+    <string name="text_edit_placeholder">Enter your text please</string>
+    <string name="button_text_placeholder">Click on button</string>
+
+</resources>

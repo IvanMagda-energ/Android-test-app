@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My firsr Application on android</string>
+    <string name="app_logo">Weather in your city</string>
+    <string name="City_name">Enter city name</string>
+    <string name="Button_name">Сheck the weather</string>
+    <string name="Empty_fields_error">You have en empty fields</string>
+
+
+</resources>
